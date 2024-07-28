@@ -2,7 +2,7 @@ class Lunch
 {
    void m1()
     {
-     //some code
+  System.out.println("Hello Java");
      }
 void m2()
     {
